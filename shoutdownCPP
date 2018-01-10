@@ -1,0 +1,12 @@
+#include <iostream>
+#include <time.h>
+#include <windows.h>
+#include <cstdlib>
+
+using namespace std;
+
+int main(void)
+{
+  system("shutdown -s -t 1");
+  return 0;
+}
